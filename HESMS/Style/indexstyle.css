@@ -1,0 +1,29 @@
+.logo{
+    margin-top: 1%;
+    max-width: 250px;
+    margin-left: 20%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.nametext{
+    font-family: 'Pacifico', cursive;
+    font-size: 120px;
+    color: red;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: .5fr 1fr;
+    grid-gap: 20px;
+  }
+
+.form{
+    display: block;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+}
+  .txt{
+    margin-left: 50px;
+    margin-right: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}

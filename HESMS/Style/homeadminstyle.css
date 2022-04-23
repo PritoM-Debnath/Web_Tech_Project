@@ -1,0 +1,62 @@
+#navbar{
+	
+    background-color: #ffffff;
+    color: rgb(0 0 0);
+    padding: 1px;
+    text-align: right;
+    border-radius: 15px;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#navbar ul{
+padding:0;
+list-style: none;
+}
+
+#navbar li{
+  display:inline;
+font-size: 21px;
+}
+
+#navbar a{
+color: rgb(49, 109, 187);
+text-decoration: none;
+font-size: 25px;
+padding-right: 23px;
+}
+
+.logo{
+    margin-top: 1%;
+    max-width: 120px;
+    margin-left: 20%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.nametext{
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
+    color: rgb(88, 18, 18);
+}
+
+img.img1 {
+    width: 510px;
+    height: 510px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: .5fr 1fr;
+    grid-gap: 20px;
+  }
+
+  .doctor-img1{
+  width: 180px;
+  margin-left: 28px;
+  margin-top: 32px;
+}
+.doctor-img2{
+    width: 180px;
+    margin-left: 28px;
+    margin-top: 32px;
+  }
