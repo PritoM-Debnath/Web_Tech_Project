@@ -1,7 +1,7 @@
 
 # Hospital Emergency Service Management System
 
-It is a system which focused on giving services to the emergency patients. The web application provides two main usages- 
+It is a system which focused on giving emergency services to patients. The web application provides two main usages- 
 #### ICU :
 User would get to know the availability and details of ICU. The staff can update, insert and delete the data of ICU. The admin have the free access to these functions also.
 #### Doctor :
