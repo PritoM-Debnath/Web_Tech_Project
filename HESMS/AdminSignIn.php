@@ -86,7 +86,7 @@ if (session_status() >= 0) {
 
 
                                 if ($pass == $check1 && $pass != null) {
-                                    echo "<br><br>SUCCESSFULLY LOGGED IN";
+                                    echo "<br><br>LOGGED IN SUCCESSFULL";
                                     header("refresh: 3; url=homeAdmin.php");
                                 } else {
                                     echo "<br><br>VERDICT WRONG !!";
