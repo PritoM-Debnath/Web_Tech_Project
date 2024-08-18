@@ -1,5 +1,5 @@
 
-# Hospital Emergency Service Management System
+# Health Care Facilities
 
 It is a system which focused on giving emergency services to patients. The web application provides two main usages- 
 #### ICU :
